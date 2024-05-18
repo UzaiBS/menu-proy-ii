@@ -57,10 +57,18 @@ section a {
   text-decoration: none;
   color: whitesmoke;
   font-size: 22px;
-  line-height: 3;
+  line-height: 2.5;
 }
 
 section a:hover {
   color: rgb(42, 57, 80);
   transition: 0.5s;
+}
+
+section .udg, .nombre {
+  color: rgb(42, 57, 80);
+  margin-bottom: 0;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 300;
 }
