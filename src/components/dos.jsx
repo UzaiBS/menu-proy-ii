@@ -3,7 +3,7 @@ const Dos = () => {
         <div>
             <h1>Sistema Implementado</h1>
             <br />
-            <a href="#" target="_blank">Video del sistema corriendo</a>
+            <a href="https://youtu.be/gxFbiXPidYI" target="_blank">Video del sistema corriendo</a>
             <br />
         </div>
     )
