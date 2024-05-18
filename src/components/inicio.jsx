@@ -4,7 +4,7 @@ const Inicio = () => {
     return(
         <div className="letreroInicio">
             <img className='logo' src={udg} alt="Logo UdG" />
-            <h1>Bienvenidos!</h1>
+            <h1>¡Bienvenidos!</h1>
         </div>
     )
 }
