@@ -15,10 +15,10 @@ const Uno = () => {
             <br />
             <a href="https://drive.google.com/file/d/1KoIwySQN_kpBMvZh50rD_7uoGDQi92K4/view?usp=drive_link" target="_blank">Unidad 3. Integradora Producto final U3</a>
             <br />
-            <a href="https://drive.google.com/file/d/15fwtob6JUIIdw3lqZH0SgSRxyZTfnA75/view?usp=drive_link" target="_blank">Unidad 4. Actividad 1. Reunión de revisión inicial</a>
+            {/* <a href="https://drive.google.com/file/d/15fwtob6JUIIdw3lqZH0SgSRxyZTfnA75/view?usp=drive_link" target="_blank">Unidad 4. Actividad 1. Reunión de revisión inicial</a>
             <br />
             <a href="https://drive.google.com/file/d/1OKv8QiQTyoFnkH6OgpqmQn2DDdO_cf6b/view?usp=drive_link" target="_blank">Unidad 4. Actividad 2. Reunión de revisión de modificaciones</a>
-            <br />
+            <br /> */}
         </div>
     )
 }
